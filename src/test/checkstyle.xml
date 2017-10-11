@@ -37,6 +37,7 @@
         http://checkstyle.sourceforge.net/5.x/config.html#Checker
 
         <property name="basedir" value="${basedir}"/>
+        test code
     -->
 
     <property name="fileExtensions" value="java, properties, xml"/>
